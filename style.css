@@ -1,0 +1,12 @@
+.box1 {
+  background-color: yellow;
+  height: 50px;
+  display: flex;
+  align-items: center;
+}
+
+.box1-box1 {
+  background-color: green;
+  height: 20px;
+  width: 100%;
+}
